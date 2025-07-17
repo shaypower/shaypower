@@ -23,7 +23,7 @@ I’m a passionate developer, open-source enthusiast, and lifelong learner. Here
 
 ## 💬 Connect With Me
 
-- 🌐 [shaypower.com](https://shaypower.com)
+- 🌐 [shaypower.com](https://shaypower.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shay-power-8100272a0/)
 - 📫 **Email:** shaythomaspower@gmail.com
 
